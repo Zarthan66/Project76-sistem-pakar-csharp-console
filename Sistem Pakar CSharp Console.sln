@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistem Pakar CSharp Console", "Sistem Pakar CSharp Console\Sistem Pakar CSharp Console.csproj", "{29A8F4EA-C15E-4762-959F-BAEAB15F311F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29A8F4EA-C15E-4762-959F-BAEAB15F311F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A8F4EA-C15E-4762-959F-BAEAB15F311F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A8F4EA-C15E-4762-959F-BAEAB15F311F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A8F4EA-C15E-4762-959F-BAEAB15F311F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19A33237-4269-4F69-A6BD-75CAC9E00D9E}
+	EndGlobalSection
+EndGlobal
