@@ -62,6 +62,7 @@ Console.WriteLine("55. Kulit luka tidak mudah sembuh");
 Console.WriteLine("56. Suhu badan naik");
 Console.WriteLine("57. Sensai terbakar di perut bawah");
 
+// Jawaban dari user
 string answer = "";
 
 Console.WriteLine("\nMasukan gejala yang anda alami");
@@ -73,6 +74,7 @@ answer = Console.ReadLine();
 
 Console.Write("\nResult: ");
 
+// Jika memenuhi semua gejala, print out tipe penyakitnya
 if (answer == "9,10,11,15,18,21,32,33,34,35,36,37,38,39,40,52")
 {
     Console.Write("Anda mengalami Gagal ginjal akut");
