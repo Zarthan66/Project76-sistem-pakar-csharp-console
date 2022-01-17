@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zarthan\\source\\repos\\Sistem Pakar CSharp Console\\Sistem Pakar CSharp Console\\Sistem Pakar CSharp Console.csproj": {}
+    "D:\\erza_property\\Homework\\Artificial Intelligence\\Kelompok 9 - Joki\\Program C# Console\\Sistem Pakar CSharp Console\\Sistem Pakar CSharp Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zarthan\\source\\repos\\Sistem Pakar CSharp Console\\Sistem Pakar CSharp Console\\Sistem Pakar CSharp Console.csproj": {
+    "D:\\erza_property\\Homework\\Artificial Intelligence\\Kelompok 9 - Joki\\Program C# Console\\Sistem Pakar CSharp Console\\Sistem Pakar CSharp Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zarthan\\source\\repos\\Sistem Pakar CSharp Console\\Sistem Pakar CSharp Console\\Sistem Pakar CSharp Console.csproj",
+        "projectUniqueName": "D:\\erza_property\\Homework\\Artificial Intelligence\\Kelompok 9 - Joki\\Program C# Console\\Sistem Pakar CSharp Console\\Sistem Pakar CSharp Console.csproj",
         "projectName": "Sistem Pakar CSharp Console",
-        "projectPath": "C:\\Users\\Zarthan\\source\\repos\\Sistem Pakar CSharp Console\\Sistem Pakar CSharp Console\\Sistem Pakar CSharp Console.csproj",
+        "projectPath": "D:\\erza_property\\Homework\\Artificial Intelligence\\Kelompok 9 - Joki\\Program C# Console\\Sistem Pakar CSharp Console\\Sistem Pakar CSharp Console.csproj",
         "packagesPath": "C:\\Users\\Zarthan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zarthan\\source\\repos\\Sistem Pakar CSharp Console\\Sistem Pakar CSharp Console\\obj\\",
+        "outputPath": "D:\\erza_property\\Homework\\Artificial Intelligence\\Kelompok 9 - Joki\\Program C# Console\\Sistem Pakar CSharp Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zarthan\\AppData\\Roaming\\NuGet\\NuGet.Config",
