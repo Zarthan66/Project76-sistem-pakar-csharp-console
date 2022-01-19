@@ -75,11 +75,11 @@ answer = Console.ReadLine();
 Console.Write("\nResult: ");
 
 // Jika memenuhi semua gejala, print out tipe penyakitnya
-if (answer == "9,10,11,15,18,21,32,33,34,35,36,37,38,39,40,52")
+if (answer == "5,8,9,10,15,18,21,32,33,34,35,36,37,38,39,40,52")
 {
     Console.Write("Anda mengalami Gagal ginjal akut");
 }
-else if(answer == "6,9,11,17,18,19,25,26,27,28,29,30,31,53")
+else if(answer == "1,5,9,11,17,18,19,25,26,27,28,29,30,31")
 {
     Console.Write("Anda mengalami Gagal ginjal kronis");
 }
@@ -111,11 +111,11 @@ else if (answer == "4,5,13,41,57")
 {
     Console.Write("Anda mengalami Sistitis");
 }
-else if(answer == "42,43,44,45,46,47,48,49,50,51,54")
+else if(answer == "42,43,44,45,46,47,48,49,50,51")
 {
     Console.Write("Anda mengalami Nefropatik Diabetik");
 }
-else if (answer == "4,9,26,57")
+else if (answer == "4,9,26,52")
 {
     Console.Write("Anda mengalami Kencing Batu");
 }
