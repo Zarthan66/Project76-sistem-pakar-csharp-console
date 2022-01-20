@@ -13,3 +13,18 @@ C:\Users\Zarthan\source\repos\Sistem Pakar CSharp Console\Sistem Pakar CSharp Co
 C:\Users\Zarthan\source\repos\Sistem Pakar CSharp Console\Sistem Pakar CSharp Console\obj\Debug\net6.0\ref\Sistem Pakar CSharp Console.dll
 C:\Users\Zarthan\source\repos\Sistem Pakar CSharp Console\Sistem Pakar CSharp Console\obj\Debug\net6.0\Sistem Pakar CSharp Console.pdb
 C:\Users\Zarthan\source\repos\Sistem Pakar CSharp Console\Sistem Pakar CSharp Console\obj\Debug\net6.0\Sistem Pakar CSharp Console.genruntimeconfig.cache
+C:\Users\Zarthan\Documents\GitHub\Project76-sistem-pakar-csharp-console\Sistem Pakar CSharp Console\bin\Debug\net6.0\Sistem Pakar CSharp Console.exe
+C:\Users\Zarthan\Documents\GitHub\Project76-sistem-pakar-csharp-console\Sistem Pakar CSharp Console\bin\Debug\net6.0\Sistem Pakar CSharp Console.deps.json
+C:\Users\Zarthan\Documents\GitHub\Project76-sistem-pakar-csharp-console\Sistem Pakar CSharp Console\bin\Debug\net6.0\Sistem Pakar CSharp Console.runtimeconfig.json
+C:\Users\Zarthan\Documents\GitHub\Project76-sistem-pakar-csharp-console\Sistem Pakar CSharp Console\bin\Debug\net6.0\Sistem Pakar CSharp Console.dll
+C:\Users\Zarthan\Documents\GitHub\Project76-sistem-pakar-csharp-console\Sistem Pakar CSharp Console\bin\Debug\net6.0\ref\Sistem Pakar CSharp Console.dll
+C:\Users\Zarthan\Documents\GitHub\Project76-sistem-pakar-csharp-console\Sistem Pakar CSharp Console\bin\Debug\net6.0\Sistem Pakar CSharp Console.pdb
+C:\Users\Zarthan\Documents\GitHub\Project76-sistem-pakar-csharp-console\Sistem Pakar CSharp Console\obj\Debug\net6.0\Sistem Pakar CSharp Console.csproj.AssemblyReference.cache
+C:\Users\Zarthan\Documents\GitHub\Project76-sistem-pakar-csharp-console\Sistem Pakar CSharp Console\obj\Debug\net6.0\Sistem Pakar CSharp Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarthan\Documents\GitHub\Project76-sistem-pakar-csharp-console\Sistem Pakar CSharp Console\obj\Debug\net6.0\Sistem Pakar CSharp Console.AssemblyInfoInputs.cache
+C:\Users\Zarthan\Documents\GitHub\Project76-sistem-pakar-csharp-console\Sistem Pakar CSharp Console\obj\Debug\net6.0\Sistem Pakar CSharp Console.AssemblyInfo.cs
+C:\Users\Zarthan\Documents\GitHub\Project76-sistem-pakar-csharp-console\Sistem Pakar CSharp Console\obj\Debug\net6.0\Sistem Pakar CSharp Console.csproj.CoreCompileInputs.cache
+C:\Users\Zarthan\Documents\GitHub\Project76-sistem-pakar-csharp-console\Sistem Pakar CSharp Console\obj\Debug\net6.0\Sistem Pakar CSharp Console.dll
+C:\Users\Zarthan\Documents\GitHub\Project76-sistem-pakar-csharp-console\Sistem Pakar CSharp Console\obj\Debug\net6.0\ref\Sistem Pakar CSharp Console.dll
+C:\Users\Zarthan\Documents\GitHub\Project76-sistem-pakar-csharp-console\Sistem Pakar CSharp Console\obj\Debug\net6.0\Sistem Pakar CSharp Console.pdb
+C:\Users\Zarthan\Documents\GitHub\Project76-sistem-pakar-csharp-console\Sistem Pakar CSharp Console\obj\Debug\net6.0\Sistem Pakar CSharp Console.genruntimeconfig.cache
