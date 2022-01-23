@@ -1,9 +1,104 @@
-﻿Console.WriteLine("==================================");
-Console.WriteLine("   Sistem Pakar Penyakit Ginjal   ");
-Console.WriteLine("==================================");
+﻿using System;
 
-Console.WriteLine("\nDibawah ini adalah data gejala gejala yang digunakan untuk mendiagnosa penyakit anda");
+namespace sistem_pakar_console
+{
+    class Program
+    {
+        List<string> gejala = new List<String>();
+        
 
+        static void printSystem(string s) { Console.WriteLine("[System] " + s); }
+        static void printWarning(string s) { Console.WriteLine("[Warning] " + s); }
+
+
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("==================================");
+            Console.WriteLine("   Sistem Pakar Penyakit Ginjal   ");
+            Console.WriteLine("==================================");
+
+            try
+            {
+                string path = Directory.GetCurrentDirectory() + "\\database.txt";
+                printSystem("Cek database di: " + path);
+
+                // Check if file already exists. If yes, delete it.     
+                if (File.Exists(path))
+                {
+                    printSystem("Database ditemukan...");
+
+
+
+                    // Write file contents on console.     
+                    using (StreamReader sr = File.OpenText(path))
+                    {
+                        string s = "";
+                        while ((s = sr.ReadLine()) != null)
+                        {
+                            Console.WriteLine(s);
+                        }
+                    }
+                }
+                else
+                {
+                    printSystem("Database tidak ditemukan");
+                    printSystem("Membuat database...");
+
+                    // Create a new file     
+                    StreamWriter sw = File.CreateText(path);
+
+                    if (File.Exists(path))
+                    {
+                        printSystem("Database berhasil dibuat");
+                        printSystem("Location: " + path);
+
+                        Console.WriteLine("\nSilahkan isi database dengan data data yang diperlukan sebelum menjalankan program");
+                        return;
+                    }
+                }
+            }
+            catch (Exception Ex)
+            {
+                Console.WriteLine("[Error] " + Ex.ToString());
+            }
+
+
+            void ReadFromFile()
+            {
+                string text = System.IO.File.ReadAllText(@"D:\mcafee.txt");
+                string path = Directory.GetCurrentDirectory();
+
+                // Display the file contents to the console. Variable text is a string.
+                System.Console.WriteLine("Contents of WriteText.txt = {0}", text);
+
+                // Example #2
+                // Read each line of the file into a string array. Each element
+                // of the array is one line of the file.
+                string[] lines = System.IO.File.ReadAllLines(@"C:\Users\Public\TestFolder\WriteLines2.txt");
+
+                // Display the file contents by using a foreach loop.
+                System.Console.WriteLine("Contents of WriteLines2.txt = ");
+                foreach (string line in lines)
+                {
+                    // Use a tab to indent each line of the file.
+                    Console.WriteLine("\t" + line);
+                }
+            }
+    }
+}
+
+
+
+
+}
+
+
+
+
+
+
+/*
 Console.WriteLine("1. Sering buang air kecil");
 Console.WriteLine("2. Buang air kecil terasa panas");
 Console.WriteLine("3. Nyeri panggul");
@@ -135,3 +230,4 @@ else
     Console.WriteLine("Contoh: 9,17,18,20,23,24");
 }
 Console.WriteLine();
+*/
